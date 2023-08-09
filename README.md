@@ -2,7 +2,7 @@
 Instalador para mongosh
 
 
-[![License](https://img.shields.io/badge/License-MIT-silver.svg?style=flat)](https://github.com/clips/pattern/blob/master/LICENSE.txt) 
+[![License](https://img.shields.io/badge/License-GPL-3.0 license-silver.svg?style=flat)](https://github.com/clips/pattern/blob/master/LICENSE.txt) 
 
 # # 
 
