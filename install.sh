@@ -1,3 +1,4 @@
+apt-get install wget
 wget -qO- https://www.mongodb.org/static/pgp/server-6.0.asc | tee /etc/apt/trusted.gpg.d/server-6.0.asc
 apt-get install gnupg
 wget -qO- https://www.mongodb.org/static/pgp/server-6.0.asc | tee /etc/apt/trusted.gpg.d/server-6.0.asc
